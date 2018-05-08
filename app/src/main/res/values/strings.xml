@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">AnkoSample</string>
+    <string name="regular_activity">Regular activity</string>
+    <string name="regular_anko_activity">Regular anko activity</string>
+    <string name="constraint_activity">Constraint activity</string>
+    <string name="constraint_anko_activity">Constraint anko activity</string>
+    <string name="discard">Discard</string>
+    <string name="upload">Upload</string>
+    <string name="camera_settings">Camera settings</string>
+    <string name="camera_value">Camera value</string>
+    <string name="singapore">Singapore</string>
+    <string name="camera">Camera</string>
+    <string name="settings">Settings</string>
+    <string name="singapore_description">Singapore officially the Republic of Singapore, is a sovereign city-state and island country in Southeast Asia. It lies one degree (137 kilometres or 85 miles) north of the equator, at the southern tip of the Malay Peninsula, with Indonesia\'s Riau Islands to the south and Peninsular Malaysia to the north.</string>
+    <string name="recycler_anko_activity">Recycler anko activity</string>
+    <string name="practice_anko_activity">Practice anko activity</string>
+    <string name="toolbar_recycler_title">Recycler anko activity</string>
+    <string name="show_as_grid">Show as grid</string>
+    <string name="show_as_list">Show as list</string>
+</resources>
